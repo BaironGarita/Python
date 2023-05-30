@@ -9,6 +9,7 @@
 == igual
 '''
 
+
 #Operadores de comparacion
 verdadero = True  
 #Mayor
